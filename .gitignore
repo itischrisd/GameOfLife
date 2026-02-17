@@ -1,6 +1,7 @@
 !**/[Pp]ackages/build/
 !*.svg  # comment out if you don't need vector files
 !.axoCover/settings.json
+!.vscode/*.code-snippets
 !.vscode/extensions.json
 !.vscode/launch.json
 !.vscode/settings.json
@@ -130,6 +131,7 @@ $tf/
 *.VC.db
 *.VC.VC.opendb
 *.VisualState.xml
+*.vsix
 *.vsp
 *.vspscc
 *.vspx
