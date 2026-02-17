@@ -7,7 +7,7 @@
 
 Repository that contains final project implementation for PSM (Foundations of Computer Simulations) practical classes, taught by Piotr Trończyk during studies on [PJAIT](https://www.pja.edu.pl/en/).
 
-Project's main goal was to implement Conway's Game of Life, a cellular automaton devised by the British mathematician John Horton Conway in 1970. The game is played on a grid of cells, where each cell can be either alive or dead. The state of the cells evolves over discrete time steps according to a set of rules based on the states of neighboring cells. Java Swing was used to create a simple GUI for the game, allowing users to interact with the simulation.
+Project's main goal was to implement [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), a cellular automaton devised by the British mathematician John Horton Conway in 1970. The game is played on a grid of cells, where each cell can be either alive or dead. The state of the cells evolves over discrete time steps according to a set of rules based on the states of neighboring cells. Java Swing was used to create a simple GUI for the game, allowing users to interact with the simulation.
 
 The following code is distributed under the [GPLv3](./LICENSE).
 
