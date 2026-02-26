@@ -5,8 +5,8 @@
   Game of Life
 </h1>
 
-Repository that contains final project implementation for PSM (Foundations of Computer Simulations) practical classes,
-taught by Piotr Trończyk during studies on [PJAIT](https://www.pja.edu.pl/en/).
+Repository that contains final project implementation for [PSM](https://github.com/itisarchive/itis-PSM) (Foundations of
+Computer Simulations) practical classes, taught by Piotr Trończyk during studies on [PJAIT](https://www.pja.edu.pl/en/).
 
 Project's main goal was to implement [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), a
 cellular automaton devised by the British mathematician John Horton Conway in 1970. The game is played on a grid of
